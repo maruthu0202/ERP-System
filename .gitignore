@@ -1,0 +1,18 @@
+# React/Frontend
+node_modules/
+build/
+dist/
+npm-debug.log*
+.env*.local
+
+# Backend (Spring Boot)
+target/
+*.war
+*.jar
+application.properties
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
